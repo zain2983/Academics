@@ -1,0 +1,4 @@
+1) the time complexity of the algorithm is O(2^n) since the recursive call is being made and makes 2^n nodes against every call.
+2) the time complexity of the algorithm is O(n) since for loop iterates over N size array.
+3) the time complexity of the algorithm is O(n^2) since there is a nested for loop.
+hence,topdown approach is the best since it has O(n) complexity
