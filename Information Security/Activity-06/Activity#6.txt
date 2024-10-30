@@ -1,0 +1,3 @@
+What is the Kerberos protocol, and how does it work? 
+What are the advantages of using Kerberos?
+What are some common vulnerabilities and attacks related to Kerberos?
